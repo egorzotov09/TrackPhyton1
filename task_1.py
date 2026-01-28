@@ -8,3 +8,5 @@ total_sum = sum(b)
 a = total_sum /( len(b)+ 1 )
 numbers [m] = a
 print("Измененный список:",numbers)
+
+
